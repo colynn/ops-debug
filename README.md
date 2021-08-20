@@ -9,7 +9,7 @@
 ### How to run
 
 ```sh
-$ docker run --rm -it colynn/ops-debug:1.0.0 /bin/sh
+$ docker run --rm -it colynn/ops-debug /bin/sh
 ```
 
 
