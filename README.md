@@ -9,7 +9,11 @@
 ### How to run
 
 ```sh
+# docker
 $ docker run --rm -it colynn/ops-debug /bin/sh
+
+# kubernetes
+$ kubectl run ops-debug --image=colynn/ops-debug [-n default] 
 ```
 
 
